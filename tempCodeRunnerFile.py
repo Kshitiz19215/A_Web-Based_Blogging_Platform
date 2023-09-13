@@ -1,0 +1,1 @@
+posts/comments/update/<int:post_id>/<int:comment_id>
